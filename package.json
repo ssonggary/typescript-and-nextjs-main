@@ -1,0 +1,11 @@
+{
+  "name": "typescript-and-nextjs-main",
+  "version": "1.0.0",
+  "description": "이 저장소의 샘플 코드는 서적 『TypeScript와 React/Next.js로 만드는 실전 웹 애플리케이션 개발』（ISBN: 978-4-297-12916-3）을 위한 것입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
